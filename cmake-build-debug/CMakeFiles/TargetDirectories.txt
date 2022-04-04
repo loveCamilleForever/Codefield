@@ -1,0 +1,3 @@
+D:/Codefield/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codefield/cmake-build-debug/CMakeFiles/Codefield.dir
+D:/Codefield/cmake-build-debug/CMakeFiles/rebuild_cache.dir
